@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DocumentDBTool.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Database" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bancolombiamiequipotest</Value>
+    </Setting>
+    <Setting Name="Collection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">copyofprod2</Value>
+    </Setting>
+    <Setting Name="Key" Type="System.String" Scope="User">
+      <Value Profile="(Default)">uWibTxAtlQHRBE7QsLqOwed1kBX/KgDazrL759t+hCC59ynEqEQACUuNToklHrAG6E0fDWJyDDr7MzrV5MY6uw==</Value>
+    </Setting>
+    <Setting Name="Url" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://camaleontest.documents.azure.com</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
