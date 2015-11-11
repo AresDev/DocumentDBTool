@@ -113,7 +113,8 @@
             this.Controls.Add(this.Actualizar);
             this.Controls.Add(this.Consultar);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "DocumentDBTool";
+            this.TopMost = true;
             this.ResumeLayout(false);
             this.PerformLayout();
 
